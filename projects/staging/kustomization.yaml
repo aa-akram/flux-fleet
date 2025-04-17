@@ -4,6 +4,6 @@ resources:
 - ../base/facebooc
 - ../base/instavote
 patches:
-  - path: facebooc-deploy-kustomization.yaml
-  - path: instavote-deploy-kustomization.yaml
+- path: facebooc-deploy-kustomization.yaml
+- path: instavote-deploy-kustomization.yaml
  
