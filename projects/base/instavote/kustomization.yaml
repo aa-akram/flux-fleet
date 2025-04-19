@@ -3,5 +3,4 @@ kind: Kustomization
 resources:
 - instavote-deploy-gitrepository.yaml
 - instavote-deploy-kustomization.yaml
-- rbac.yam
 - rbac.yaml
