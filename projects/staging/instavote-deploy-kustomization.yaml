@@ -4,7 +4,7 @@ metadata:
   name: instavote-deploy
   namespace: instavote
 spec:
-  path: ./flux/
+  path: ./flux/staging
   sourceRef:
     kind: GitRepository
     name: instavote-deploy
